@@ -1,0 +1,59 @@
+body {
+    background-color:#F1F6F9;
+    color:#212A3E;
+}
+
+#header > h1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    margin-top: 7%;
+}
+#header > p {
+    font-family: "Arial", Gadget, sans-serif;
+    margin-top: -20px;
+    margin-bottom: 50px;
+    font-size:28px;
+}
+
+#TestCase-1-Btn {
+    background-color: #d5df69;
+    font-weight: bold;
+}
+
+#TestCase-1-Btn:hover {
+    background-color: #bfc75e;
+}
+
+#TestCase-2-Btn {
+    background-color: #65d767;
+    font-weight: bold;
+}
+
+#TestCase-2-Btn:hover {
+    background-color: #58ba59;
+}
+
+#TestCase-3-Btn {
+    background-color: #968aff;
+    font-weight: bold;
+}
+
+#TestCase-3-Btn:hover {
+    background-color: #7a71cc;
+    font-weight: bold;
+}
+
+#reroll-btn {
+    background-color: #44557b;
+    color: white;
+}
+
+#reroll-btn:hover{
+    background-color: #212A3E;
+}
+
+#hand {
+    background-color: #e7f274;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+}
